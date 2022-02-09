@@ -22,7 +22,7 @@
 		<guava.version>17.0</guava.version> 
 		
         <!-- shiro版本号 -->
-        <shiro.version>1.2.3</shiro.version>
+        <shiro.version>1.7.1</shiro.version>
         <ehcache.version>2.6.9</ehcache.version>
         <servlet-api.version>3.1.0</servlet-api.version>
         <redis.version>2.8.1</redis.version>		 
