@@ -18,7 +18,7 @@
 		<!-- mybatis版本号 -->
 		<mybatis.version>3.2.1</mybatis.version>
 		<!-- jackson版本号 -->
-		<jackson.version>2.5.0</jackson.version>
+		<jackson.version>2.13.4.1</jackson.version>
 		<guava.version>17.0</guava.version> 
 		
         <!-- shiro版本号 -->
